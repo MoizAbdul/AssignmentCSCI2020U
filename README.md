@@ -1,4 +1,4 @@
-# AssignmentCSCI2020U
+# AssignmentCSCI2020U Made By: Moiz Abdul & Jevon Rambarran
 How to run programs:
 -Clone Repository
 -Run each file as follows:
