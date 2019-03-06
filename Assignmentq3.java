@@ -33,7 +33,7 @@ public class Assignmentq3 extends Application {
                 line1, line2, line3, text[0], text[1], text[2]);
 
         Scene scene = new Scene(pane, 400, 250);
-        primaryStage.setTitle("Exercise15_20");
+        primaryStage.setTitle("Assignment Question 3");
         primaryStage.setScene(scene);
         primaryStage.setResizable(false);
         primaryStage.show();
